@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI, ML | Data Science
-- 🌱 I’m currently learning Python Advance
+- 🔭 I’m studying masters 
+- 🌱 I’m currently learning Python Advance 
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with Learning Advance python
-- 💬 Ask me about Data Visulalization, EDA, Python Queries 
+- 💬 Ask me about Devops, AWS, Azure, EDA, Python Queries 
 - 📫 How to reach me: pradeepreddy921@gmail.com,
      linkedin - [@ Pradeepreddy](https://www.linkedin.com/in/pradeep-reddy-6246bb16b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoineALqKRyOLFq%2FmCFbbew%3D%3D)
 - 😄 Pronouns: He/His
