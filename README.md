@@ -12,7 +12,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation | Pr
 
 ## 🙋‍♂️ About Me
 
-- 🔭 4+ Years of Experience in Cloud & DevOps Engineering
+- 🔭 5+ Years of Experience in Cloud & DevOps Engineering
 - ☁️ Designing Secure & Scalable Infrastructure on AWS & Azure
 - 🚀 Specialized in Kubernetes (EKS) & Infrastructure as Code (Terraform)
 - 🔐 Strong focus on IAM, Secrets Management & Cloud Security
