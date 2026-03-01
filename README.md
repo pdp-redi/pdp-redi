@@ -12,7 +12,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation | Pr
 
 ## 🙋‍♂️ About Me
 
-- 🔭 5+ Years of Experience in Cloud & DevOps Engineering
+- 🔭 4+ Years of Experience in Cloud & DevOps Engineering
 - ☁️ Designing Secure & Scalable Infrastructure on AWS & Azure
 - 🚀 Specialized in Kubernetes (EKS) & Infrastructure as Code (Terraform)
 - 🔐 Strong focus on IAM, Secrets Management & Cloud Security
@@ -168,11 +168,10 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation | Pr
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pdp-redi&show_icons=true&theme=github_dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdp-redi&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdp-redi&theme=github_dark" />
 </p>
 
 ---
