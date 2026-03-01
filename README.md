@@ -68,7 +68,7 @@
 
 # 🚀 DevOps Impact
 
-✔️ Designed and deployed EKS clusters without Terraform modules  
+✔️ Designed and deployed EKS clusters and ubuntu HA architecture for migration of on-prem workloads to AWS Cloud
 ✔️ Implemented secure CI/CD pipelines using OIDC authentication  
 ✔️ Integrated AWS Secrets Manager & Azure Key Vault with Kubernetes  
 ✔️ Automated cloud cost optimization using Python  
